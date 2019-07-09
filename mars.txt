@@ -1,1 +1,2 @@
-Mars is the red planet. Martians live there.
+Mars is red. Martians live there.
+It's the fourth planet from the Sun.
